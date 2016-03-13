@@ -12,3 +12,4 @@ Catalogue functionality includes:
 - Join() to join two cd catalogues together excluding repeats
 - Common() to return the number of common cds between two catalogues
 - Split() to return the difference between two catalogues
+	NEW AND IMPROVED? TUNE IN NEXT WEEK TO FIND OUT...
